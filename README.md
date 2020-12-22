@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Hybrid apps in React Native. I am also developing web solutions in React.
 - 🌱 I’m currently learning Rust and systems architecture. I love Rust.
-- 👯 I’m looking to collaborate on new and exciting projects in Javascript and Rust. I especially want to contribute in Rust so that I can make use of my learning and implement it in a project that makes an impact.
+- 👯 I’m looking to collaborate on new and exciting projects in Javascript and Rust. I especially want to contribute in Rust so that I can get into my lifelong intereset of embedded systems.
 - 💬 Ask me about anything programming related. I can help you understand Javascript and it's core features. I also teach Javascript to my friends.
 - 📫 How to reach me: Best way to reach me is through my personal email `ameernormie@gmail.com`. 
 - ⚡ Fun fact: I am a self taught developer. 
