@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hybrid apps in React Native. I am also developing web solutions in React.
+- 🔭 I’m currently working as a full stack developer. Producing solutions in Node.js, Go and Postgres.
+- 🔭 In the past I have worked on Hybrid apps in React Native. I have also developed web solutions in React.
 - 🌱 I’m currently learning Rust and systems architecture. I love Rust.
 - 👯 I’m looking to collaborate on new and exciting projects in Javascript and Rust. I especially want to contribute in Rust so that I can get into my lifelong intereset of embedded systems.
 - 💬 Ask me about anything programming related. I can help you understand Javascript and it's core features. I also teach Javascript to my friends.
