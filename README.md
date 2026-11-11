@@ -1,25 +1,12 @@
-### Hi there 👋
+## Ameer Hamza
 
-- 🔭 I’m currently working as a full stack developer. Producing solutions in Node.js, Go and Postgres.
-- 🔭 In the past I have worked on Hybrid apps in React Native. I have also developed web solutions in React.
-- 🌱 I’m currently learning Rust and systems architecture. I love Rust.
-- 👯 I’m looking to collaborate on new and exciting projects in Javascript and Rust. I especially want to contribute in Rust so that I can get into my lifelong intereset of embedded systems.
-- 💬 Ask me about anything programming related. I can help you understand Javascript and it's core features. I also teach Javascript to my friends.
-- 📫 How to reach me: Best way to reach me is through my personal email `ameernormie@gmail.com`. 
-- ⚡ Fun fact: I am a self taught developer. 
+Senior software engineer, 9 years in TypeScript, React and Node.js. I build production AI features: LLM pipelines, retrieval over your own data, and the integrations that put the output where teams already work.
 
+**Now:** at FanVoice, I build the AI triage pipeline that turns customer voice and screen recordings into structured issues, matches them to past tickets with vector search, and files them in Jira, Linear and Zendesk. Most of the work is making LLM output reliable in production: schema validation, fallbacks, versioned prompts and tracing.
 
-<!--
-**ameernormie/ameernormie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Before:** designed the NestJS API behind a certification platform for the American Board of Neurological Surgery (IQVIA), worked on Ruby on Rails at Motive, and led a team of 5 at Nerdyfactory.
 
-Here are some ideas to get you started:
+**Stack:** TypeScript, Node.js, NestJS, React, Next.js, PostgreSQL, Redis/BullMQ, Qdrant, OpenAI, Claude, Gemini, GCP, AWS, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to** remote full-time, contract and freelance work.
+[LinkedIn](https://www.linkedin.com/in/ameernormie/) · ameernormie@gmail.com
